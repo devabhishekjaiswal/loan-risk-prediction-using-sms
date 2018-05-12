@@ -1,0 +1,20 @@
+[
+        {
+            "rechargeAmount": 5561,
+            "credited": 45405,
+            "debited": 4054,
+            "label": "NO",
+        },
+        {
+            "rechargeAmount": 714,
+            "credited": 16128,
+            "debited": 17080,
+            "label": "YES",
+        },
+        {
+            "rechargeAmount": 593,
+            "credited": 100,
+            "debited": 10,
+            "label": "NO",
+        }
+]
